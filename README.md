@@ -15,14 +15,6 @@
     />
   </picture>
 
-  <a href="https://github.com/IgorGoncallves/convoychat" style="display:inline-block; vertical-align: middle;">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorGoncallves&layout=compact&langs_count=8&card_width=320"
-      alt="Top Langs"
-      height="200"
-      style="vertical-align: middle;"
-    />
-  </a>
 </div><br>
 <p align="center">
   <img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
