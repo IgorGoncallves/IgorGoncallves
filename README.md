@@ -1,9 +1,8 @@
-## Fala, tudo bem? Eu sou o Igor Gonçalves 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=eixo+2&pause=1000&color=2EBDF7&width=435&lines=Fala%2C+tudo+bem%3F+Eu+sou+o+Igor+Gon%C3%A7alves+%F0%9F%91%8B)](https://git.io/typing-svg)
 • Analista e Desenvolvedor de Sistemas;<br>
 • Graduando em Engenharia de Software; <br>
 • Pós-graduando em Engenharia de Dados
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=eixo+2&pause=1000&color=2EBDF7&width=435&lines=Engenheiro+de+Dados)](https://git.io/typing-svg)
 ##
 <div align="center">
   <picture style="display:inline-block; vertical-align: middle; margin-right: 12px;">
